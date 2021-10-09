@@ -1,7 +1,10 @@
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
-
+My fork includes a few simple patches I like to add any time I
+install this window manager on my system: autostart. restartsig, 
+fullgaps,and scratchpads. There are also a few minor cosmetic changes
+and personal bindings that are different than default dwm.
 
 Requirements
 ------------
